@@ -5,6 +5,7 @@ categories: coding
 tag: [test, blog]
 toc: true
 author_profile: false
+search: true
 sidebar:
     nav: docs
 ---
