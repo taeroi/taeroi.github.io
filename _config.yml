@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "PARK TAE HWAN"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/myImage.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Insider Developer <br>필요에 의한 개발을<br>지향합니다"
   location         : "+82"
   email            : "fkrkdlsgk@gmail.com"
